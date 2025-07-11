@@ -1,0 +1,4 @@
+modelo,tiempo_faiss_s
+all-MiniLM-L6-v2,0.29
+paraphrase-MiniLM-L12-v2,0.41
+all-mpnet-base-v2,0.27
