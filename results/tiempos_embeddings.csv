@@ -1,0 +1,4 @@
+modelo,tiempo_corpus_s,tiempo_queries_s,total_s
+all-MiniLM-L6-v2,185.67,3.06,188.73
+paraphrase-MiniLM-L12-v2,364.18,5.15,369.33
+all-mpnet-base-v2,1455.01,13.87,1468.89
